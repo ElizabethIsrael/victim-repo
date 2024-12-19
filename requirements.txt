@@ -1,0 +1,1 @@
+malicious-library @ git+https://github.com/ElizabethIsrael/malicious-repo.git
